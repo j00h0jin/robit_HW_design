@@ -9,3 +9,4 @@
 
 <img width="685" height="317" alt="image" src="https://github.com/user-attachments/assets/4d7f0b35-997f-40e2-a452-64c652d71821" />
 
+치수 잘 쓰기
